@@ -1,0 +1,1345 @@
+fileFormatVersion: 2
+guid: e67845c9776e95e489813c1b92950cf8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_0"
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1355
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33057f64d98f6b94f954fa6575fa0df8
+      internalID: -1264986066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_1"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1355
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1819f27c85d6a1a45be946b296e07333
+      internalID: 1790820989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_2"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1355
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d501d09266448864c84ee41c262371cf
+      internalID: -1234718031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_3"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1355
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f4bf2d626248b428880df69616965c
+      internalID: -1151562298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_4"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1355
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dc6eb2e7158ec44800a67702b49990
+      internalID: -1288221146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_5"
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1227
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb8944062460ec459a45a67cfce529e
+      internalID: -1620321939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_6"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1227
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905dbade20ff3aa48bf1fc3320dc17d3
+      internalID: -1587813995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_7"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1227
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbd8d7e58a97164285d815bc427deeb
+      internalID: 1415590095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_8"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1227
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc35b974e65e0c4d8cf6926898f16cc
+      internalID: 1444967452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_9"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1227
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7730dd68a3cc749ab7a104547bb2c3
+      internalID: 1669802420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_10"
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1099
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a12bfd2d73d2740bf76f3c136f8760
+      internalID: 655314357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_11"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1099
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5078114d02d744e955794f7dcd9183
+      internalID: -758227841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_12"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1099
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740d450df429b7d47a5d41babb32590f
+      internalID: 1138568380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_13"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1099
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13462715063f37a41bc1f639a34ce0a2
+      internalID: 1269434642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_14"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1099
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d55553f3b92db41bbd0aed837f1ef9
+      internalID: -1600215373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_15"
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 971
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b263b238f4464438a307cff11940e4
+      internalID: -171738380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_16"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 971
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549c24b88d7f1304e938c95aaa4d2625
+      internalID: 1269749109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_17"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 971
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dc9e229757cba45804a4b81eab5fa3
+      internalID: 1927305486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_18"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 971
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7813541199fa18d4192657f930120a8f
+      internalID: -1275882932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_19"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 971
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57719ca050bbdc14d834218db61842ea
+      internalID: -50823490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_20"
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 843
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0476f4fd7a727469687bdc1182c165
+      internalID: -2135534276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_21"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 843
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdfb4dfedf9bb540a868c60e8dd0aeb
+      internalID: -1527159525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_22"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 843
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ac6cf5daddb9240a9518c015873c39
+      internalID: -1931294217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_23"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 843
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e68f2a38b4752741a89395b11e700f9
+      internalID: 1652288076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_24"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 843
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1dee9342e2f4048a4a030348bd8c28
+      internalID: 465175254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_25"
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 715
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f243b9170aeac8442b59367baf8d8e60
+      internalID: -854581461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_26"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 715
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a79de054dd19b408109d4b0bf11f97
+      internalID: 1904695128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_27"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 715
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a764a67befa19fe429f8db27f2dee4cb
+      internalID: 601714777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_28"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 715
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88771f1a120395740b411c62b4b97f38
+      internalID: -1230385014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_29"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 715
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd8c4ea9c76b5c4e852c6a6194e7123
+      internalID: -1607296525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_30"
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 587
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def4e8054ed8943408896a962c440e6b
+      internalID: -1733931849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_31"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 587
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46edee614ac434b43b3f47ab09c1e3da
+      internalID: -495184521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_32"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 587
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f7dcec68fed8b48bbe7472c3b2c130
+      internalID: 976900885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_33"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 587
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f564eba36eb3fd4fac20702fe66b7bf
+      internalID: -1845893697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_34"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 587
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdde9b9b55f8224994cec119875e623
+      internalID: -2143729255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_35"
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 459
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44be5d0cabee0e04881b0025d51be55e
+      internalID: 1635701947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_36"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 459
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb916c10f1153c49814db2e16f675a6
+      internalID: 1275232839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_37"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 459
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bb1270cb62f8f45af50a34f32390a7
+      internalID: 487534138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_38"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 459
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6acc8b1b262c541ba0c357fb7ee2c3
+      internalID: 786406052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_39"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 459
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999c1e288ccc06b48b2e5855752d6196
+      internalID: 1113675274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_40"
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 331
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9151575140c1446bf7701619275293
+      internalID: -653388625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_41"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 331
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73903d292b81ed54c8eab0cef7893c48
+      internalID: 604747882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_42"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 331
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48c4ea3d4809a64bb5d994b2ecc04b1
+      internalID: -1993396981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_43"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 331
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3db1ae241ea56429897d2be45c2504
+      internalID: -1472020113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_44"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 331
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0b9aea9f8971f40bcf61b528da2d8a
+      internalID: -1097231707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_45"
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 203
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e139324c51f7924086c254ad24f7162
+      internalID: -166917957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_46"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 203
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9aacc8a42db4848bfe347cd518f99d
+      internalID: 1722256207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_47"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 203
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608fc73f9f0fe7f4284af1207b58fe18
+      internalID: 1119443074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_48"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 203
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95fec8948d7ec640a053432ff72c908
+      internalID: 1581276215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_49"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 203
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65133d1d5d151024e9b470fcc53c321f
+      internalID: 531617793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_50"
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 75
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ca779379d8dce459d07a835be7c345
+      internalID: -1092445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_51"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 75
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d08c98a4409c24fbbb77d126287b83
+      internalID: 390621157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_52"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 75
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3f197fe5b22644b9de7a5591445a6e
+      internalID: 390680153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_53"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 75
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c918a4fd793814887c418ae6ef5729
+      internalID: 2145980587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mapa_decoraci\xF3n_agua_54"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 75
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e848defac4aba94093d5196bc7eb824
+      internalID: 1207027876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "mapa_decoraci\xF3n_agua_54": 1207027876
+      "mapa_decoraci\xF3n_agua_23": 1652288076
+      "mapa_decoraci\xF3n_agua_20": -2135534276
+      "mapa_decoraci\xF3n_agua_22": -1931294217
+      "mapa_decoraci\xF3n_agua_25": -854581461
+      "mapa_decoraci\xF3n_agua_10": 655314357
+      "mapa_decoraci\xF3n_agua_14": -1600215373
+      "mapa_decoraci\xF3n_agua_4": -1288221146
+      "mapa_decoraci\xF3n_agua_26": 1904695128
+      "mapa_decoraci\xF3n_agua_53": 2145980587
+      "mapa_decoraci\xF3n_agua_50": -1092445
+      "mapa_decoraci\xF3n_agua_51": 390621157
+      "mapa_decoraci\xF3n_agua_6": -1587813995
+      "mapa_decoraci\xF3n_agua_0": -1264986066
+      "mapa_decoraci\xF3n_agua_47": 1119443074
+      "mapa_decoraci\xF3n_agua_2": -1234718031
+      "mapa_decoraci\xF3n_agua_30": -1733931849
+      "mapa_decoraci\xF3n_agua_17": 1927305486
+      "mapa_decoraci\xF3n_agua_28": -1230385014
+      "mapa_decoraci\xF3n_agua_52": 390680153
+      "mapa_decoraci\xF3n_agua_36": 1275232839
+      "mapa_decoraci\xF3n_agua_13": 1269434642
+      "mapa_decoraci\xF3n_agua_27": 601714777
+      "mapa_decoraci\xF3n_agua_8": 1444967452
+      "mapa_decoraci\xF3n_agua_18": -1275882932
+      "mapa_decoraci\xF3n_agua_34": -2143729255
+      "mapa_decoraci\xF3n_agua_43": -1472020113
+      "mapa_decoraci\xF3n_agua_12": 1138568380
+      "mapa_decoraci\xF3n_agua_42": -1993396981
+      "mapa_decoraci\xF3n_agua_44": -1097231707
+      "mapa_decoraci\xF3n_agua_40": -653388625
+      "mapa_decoraci\xF3n_agua_31": -495184521
+      "mapa_decoraci\xF3n_agua_5": -1620321939
+      "mapa_decoraci\xF3n_agua_29": -1607296525
+      "mapa_decoraci\xF3n_agua_3": -1151562298
+      "mapa_decoraci\xF3n_agua_46": 1722256207
+      "mapa_decoraci\xF3n_agua_21": -1527159525
+      "mapa_decoraci\xF3n_agua_9": 1669802420
+      "mapa_decoraci\xF3n_agua_32": 976900885
+      "mapa_decoraci\xF3n_agua_24": 465175254
+      "mapa_decoraci\xF3n_agua_19": -50823490
+      "mapa_decoraci\xF3n_agua_39": 1113675274
+      "mapa_decoraci\xF3n_agua_49": 531617793
+      "mapa_decoraci\xF3n_agua_41": 604747882
+      "mapa_decoraci\xF3n_agua_7": 1415590095
+      "mapa_decoraci\xF3n_agua_37": 487534138
+      "mapa_decoraci\xF3n_agua_45": -166917957
+      "mapa_decoraci\xF3n_agua_1": 1790820989
+      "mapa_decoraci\xF3n_agua_48": 1581276215
+      "mapa_decoraci\xF3n_agua_15": -171738380
+      "mapa_decoraci\xF3n_agua_38": 786406052
+      "mapa_decoraci\xF3n_agua_11": -758227841
+      "mapa_decoraci\xF3n_agua_33": -1845893697
+      "mapa_decoraci\xF3n_agua_16": 1269749109
+      "mapa_decoraci\xF3n_agua_35": 1635701947
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
