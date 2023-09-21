@@ -1,0 +1,2093 @@
+fileFormatVersion: 2
+guid: dc3f6474e78d12344acc12483fcbe90a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_0
+      rect:
+        serializedVersion: 2
+        x: 9984
+        y: 1887
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee74ad4df03aad46bfd339371625c37
+      internalID: -266285519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_1
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 1887
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c165300c87d744695d84b0dce4e359
+      internalID: -1573428378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_2
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 1887
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc747bd92c9b5504e9cbcf8b8bf2c4df
+      internalID: -984024973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_3
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 1887
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8503730607f04846b49ccc3a93815a8
+      internalID: -1579106034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_4
+      rect:
+        serializedVersion: 2
+        x: 10496
+        y: 1887
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879ecfba15052af43a77391aa45800f1
+      internalID: -1077216556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_5
+      rect:
+        serializedVersion: 2
+        x: 10624
+        y: 1887
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84108a8a001e79b4e8591f15cab2a19f
+      internalID: -404653342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_6
+      rect:
+        serializedVersion: 2
+        x: 9856
+        y: 1759
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d79361a39f55324abd46233b4c12ff1
+      internalID: 835520636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_7
+      rect:
+        serializedVersion: 2
+        x: 9984
+        y: 1759
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ca52e200841ae46873169037831184
+      internalID: 1906177206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_8
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 1759
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4f5f25894ad1545a9e74f652aebea8
+      internalID: 641041617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_9
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 1759
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7526c329d845404592bf3c4b669edbf
+      internalID: -1053616929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_10
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 1759
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0f41add59197e41bd2513d716c006c
+      internalID: 1731917166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_11
+      rect:
+        serializedVersion: 2
+        x: 10496
+        y: 1759
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a003610ebf48e4ebf1c805e3349d11
+      internalID: -731012605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_12
+      rect:
+        serializedVersion: 2
+        x: 10624
+        y: 1759
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08898daea21179b42991636534084a2b
+      internalID: 1451090227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_13
+      rect:
+        serializedVersion: 2
+        x: 9856
+        y: 1631
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfcd9b0f6422b2439455bdf4cc5cf0a
+      internalID: -1801660043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_14
+      rect:
+        serializedVersion: 2
+        x: 9984
+        y: 1631
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5604d04ae2c88904bb31d39b4a521a92
+      internalID: 84051388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_15
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 1631
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67921d4c55a9aa0458e857d7ac929bb4
+      internalID: 283092584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_16
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 1631
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a809103678bb0e4bb4e0fa7a58527b4
+      internalID: 275782996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_17
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 1631
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aa88114ff3421489122c123003b60f
+      internalID: -1353557196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_18
+      rect:
+        serializedVersion: 2
+        x: 10496
+        y: 1631
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3453b026a3c689d4598ceed37bbe5282
+      internalID: -1652365941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_19
+      rect:
+        serializedVersion: 2
+        x: 10624
+        y: 1631
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcb46180c1559249bc2e447e49e72ea
+      internalID: 1899462257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_20
+      rect:
+        serializedVersion: 2
+        x: 9856
+        y: 1503
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f974766f6a3379438949a2e7e634a85
+      internalID: 351667404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_21
+      rect:
+        serializedVersion: 2
+        x: 9984
+        y: 1503
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99502fa0f0d0074d9e55baaef3ce725
+      internalID: 1247986230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_22
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 1503
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8b066dc6ea20b4aa8c4315fafb2c5a
+      internalID: 1841336537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_23
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 1503
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dd93abd65defc40ad2e9bc5f4654c3
+      internalID: 1023738431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_24
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 1503
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987362eff23d79f4cb1dc68ac94e8b58
+      internalID: -1411391030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_25
+      rect:
+        serializedVersion: 2
+        x: 10496
+        y: 1503
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcbd80ef0617bd4db02acc7afc4dad6
+      internalID: -1562626287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_26
+      rect:
+        serializedVersion: 2
+        x: 10624
+        y: 1503
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b653660128782b49bcad37cc25e09f9
+      internalID: -1853150343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_27
+      rect:
+        serializedVersion: 2
+        x: 9856
+        y: 1375
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e920e083f53c0a4683b1d3f37ba6e12
+      internalID: 1053806656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_28
+      rect:
+        serializedVersion: 2
+        x: 9984
+        y: 1375
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e440ee67f5b7404583a5d2e62baac0f
+      internalID: 2012867568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_29
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 1375
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e373589c0e1de84ebe3c8633efe5032
+      internalID: -1750974431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_30
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 1375
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344ea69ce58f3b341b1f62fbba709f4a
+      internalID: 1773216239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_31
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 1375
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2777f7fd8a8702549b86285c8387395c
+      internalID: 837025247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_32
+      rect:
+        serializedVersion: 2
+        x: 10496
+        y: 1375
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb73372065165641b32e8e4574c94e6
+      internalID: -340529673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_33
+      rect:
+        serializedVersion: 2
+        x: 10624
+        y: 1375
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396396612ce5f644eb4bdb9e47dc8484
+      internalID: -984819785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_34
+      rect:
+        serializedVersion: 2
+        x: 9856
+        y: 1247
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d980e5d9c206f24086c13143a0370fb
+      internalID: -1497348393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_35
+      rect:
+        serializedVersion: 2
+        x: 9984
+        y: 1247
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f0546d7d258af4d985443971fd0a12
+      internalID: 1807459869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_36
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 1247
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4370e99b3f5888d42b84ffda2c09ffd7
+      internalID: 1394876103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_37
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 1247
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691f2b55a89dd95419a707f7b070795e
+      internalID: 591872794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_38
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 1247
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9e02eac740a5b429fd13b06280d9a4
+      internalID: 455899301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_39
+      rect:
+        serializedVersion: 2
+        x: 10496
+        y: 1247
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b5d8401862ab849afc5ce8bb3ad9e6
+      internalID: -1074568405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_40
+      rect:
+        serializedVersion: 2
+        x: 10624
+        y: 1247
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1579b3dc0f36b46b15b6564290f6a3
+      internalID: 1444056652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_41
+      rect:
+        serializedVersion: 2
+        x: 9856
+        y: 1119
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58905a02f377a54fbc3f9624ea3f9a2
+      internalID: 788386900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_42
+      rect:
+        serializedVersion: 2
+        x: 9984
+        y: 1119
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcdb2f3fb68763449bfdab791385718
+      internalID: -769807910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_43
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 1119
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f554971a27f9d114eb1682283d00b20d
+      internalID: -234214876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_44
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 1119
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d676d4e95fcad0041bd421b697ed3546
+      internalID: 794171040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_45
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 1119
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0516218ce5a4d1f4db2d8495858e4c96
+      internalID: -1705962217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_46
+      rect:
+        serializedVersion: 2
+        x: 10496
+        y: 1119
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64c583df7f728541a247c639e80b9e2
+      internalID: 1595568212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_47
+      rect:
+        serializedVersion: 2
+        x: 10624
+        y: 1119
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c7166d8523b8c43af2429cc5972cac
+      internalID: 1031788995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_48
+      rect:
+        serializedVersion: 2
+        x: 9856
+        y: 991
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4a6ff24941bb1448c96eb8a32a54ab
+      internalID: -1658925798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_49
+      rect:
+        serializedVersion: 2
+        x: 9984
+        y: 991
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63cbb13e7775cb4dadf32abb1176485
+      internalID: -465592880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_50
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 991
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268a1d7dd412fa34795b5ab1a6d037ac
+      internalID: -273743930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_51
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 991
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4bb0ce8331ade4198c9db1485af7b7
+      internalID: -905747747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_52
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 991
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc73c0eed13229f49902f9797efb6252
+      internalID: 2023487984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_53
+      rect:
+        serializedVersion: 2
+        x: 10496
+        y: 991
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b13b4bb41442a47962d2ee0f2a817b
+      internalID: 1766071539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_54
+      rect:
+        serializedVersion: 2
+        x: 10624
+        y: 991
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7d6a454880a5749966651ad85ce0fd
+      internalID: 1059595626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_55
+      rect:
+        serializedVersion: 2
+        x: 9856
+        y: 863
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6686231c90a354db562b452f6f91f9
+      internalID: -1342385120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_56
+      rect:
+        serializedVersion: 2
+        x: 9984
+        y: 863
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0b670e42ceed24584c88dbeb10d4f7
+      internalID: 971329226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_57
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 863
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab4c9cf766e32d4294d4e38a6a8b9a6
+      internalID: -1886081184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_58
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 863
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90861446d3ede8d40a03b67fc884bc97
+      internalID: -185037980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_59
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 863
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b716b89b4123640bc8d66386a7a355
+      internalID: 1751571332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_60
+      rect:
+        serializedVersion: 2
+        x: 10496
+        y: 863
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6149867089d533a429a9d848e3e697fe
+      internalID: -729121646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_61
+      rect:
+        serializedVersion: 2
+        x: 10624
+        y: 863
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c808c64e4d5fba7479e571922eaf6676
+      internalID: -2120671535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_62
+      rect:
+        serializedVersion: 2
+        x: 9856
+        y: 735
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1b3dcba9db230409c1b1fbcde4dc7c
+      internalID: -1940255345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_63
+      rect:
+        serializedVersion: 2
+        x: 9984
+        y: 735
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3f28c5e38d0e1439dd51eaf7e57244
+      internalID: 419161975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_64
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 735
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858620e631bf1e5489e25b0da7ff18ba
+      internalID: -82045455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_65
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 735
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ad5b70b1f965242ac9daa1117c6f32
+      internalID: -70946393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_66
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 735
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d12006ff381b0478291e49a010cdfe
+      internalID: 1880507351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_67
+      rect:
+        serializedVersion: 2
+        x: 10496
+        y: 735
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daff7d1255a1bed488250197f1d1951d
+      internalID: -864585077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_68
+      rect:
+        serializedVersion: 2
+        x: 10624
+        y: 735
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407c89152bba5894a8fa46fe5d2304d5
+      internalID: 802651553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_69
+      rect:
+        serializedVersion: 2
+        x: 9856
+        y: 607
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c28a96863072ae4d944ff280182f866
+      internalID: -135915765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_70
+      rect:
+        serializedVersion: 2
+        x: 9984
+        y: 607
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8325c2be54f2c447b72198a7c805113
+      internalID: 90777163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_71
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 607
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3050870164792cb44a5fd85c18e7f3da
+      internalID: 703182516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_72
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 607
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1241a679e28ad478cc61eec5985191
+      internalID: 2134790690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_73
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 607
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916a721fe046979498cebe3932f17560
+      internalID: 1759389101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_74
+      rect:
+        serializedVersion: 2
+        x: 10496
+        y: 607
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fb058e869c81e4cbdc00c5e3defbff
+      internalID: 1893695493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_75
+      rect:
+        serializedVersion: 2
+        x: 10624
+        y: 607
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7780066f8979d51489944394fd662c6c
+      internalID: 611088764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_76
+      rect:
+        serializedVersion: 2
+        x: 9856
+        y: 479
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef9dae621569b445bdb12f88b0e3bba
+      internalID: -2077172043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_77
+      rect:
+        serializedVersion: 2
+        x: 9984
+        y: 479
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce92990618841a349ad8a15f1ec6b004
+      internalID: -1787752623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_78
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 479
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32336c5fa1e91434b848b652a4f9fba5
+      internalID: 1944020032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_79
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 479
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c29241510611f44dbeffaaddba31adf
+      internalID: 282540891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_80
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 479
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4170e00419e6af478bda04e18db90ab
+      internalID: -291568825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_81
+      rect:
+        serializedVersion: 2
+        x: 10496
+        y: 479
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6837ae1c5a3bf82459ac3f9470743d8c
+      internalID: 1825590837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_82
+      rect:
+        serializedVersion: 2
+        x: 10624
+        y: 479
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf43984a6daaff459028ea124a36f16
+      internalID: 246435090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_83
+      rect:
+        serializedVersion: 2
+        x: 9984
+        y: 351
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499c0cd4b7ab9ae4fa24b26ff524b37a
+      internalID: -489133965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_84
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 351
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22b1a73cbbf72448981340f37e9d0b4
+      internalID: -544317631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_85
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 351
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2448517a74e57340977e978756fe7ec
+      internalID: 581934315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_86
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 351
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b75b186809044459cdb44d23b0b5ac
+      internalID: -697518560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_87
+      rect:
+        serializedVersion: 2
+        x: 10496
+        y: 351
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cdffb355a9bb244a27be5b4383588f
+      internalID: -161088418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_02_agua_tildeland_88
+      rect:
+        serializedVersion: 2
+        x: 10624
+        y: 351
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0427ca21a48f247a548908db5fbce9
+      internalID: -341185279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mapa_02_agua_tildeland_61: -2120671535
+      mapa_02_agua_tildeland_82: 246435090
+      mapa_02_agua_tildeland_71: 703182516
+      mapa_02_agua_tildeland_27: 1053806656
+      mapa_02_agua_tildeland_24: -1411391030
+      mapa_02_agua_tildeland_72: 2134790690
+      mapa_02_agua_tildeland_38: 455899301
+      mapa_02_agua_tildeland_33: -984819785
+      mapa_02_agua_tildeland_81: 1825590837
+      mapa_02_agua_tildeland_9: -1053616929
+      mapa_02_agua_tildeland_55: -1342385120
+      mapa_02_agua_tildeland_60: -729121646
+      mapa_02_agua_tildeland_42: -769807910
+      mapa_02_agua_tildeland_4: -1077216556
+      mapa_02_agua_tildeland_65: -70946393
+      mapa_02_agua_tildeland_58: -185037980
+      mapa_02_agua_tildeland_79: 282540891
+      mapa_02_agua_tildeland_16: 275782996
+      mapa_02_agua_tildeland_54: 1059595626
+      mapa_02_agua_tildeland_20: 351667404
+      mapa_02_agua_tildeland_87: -161088418
+      mapa_02_agua_tildeland_22: 1841336537
+      mapa_02_agua_tildeland_52: 2023487984
+      mapa_02_agua_tildeland_14: 84051388
+      mapa_02_agua_tildeland_77: -1787752623
+      mapa_02_agua_tildeland_26: -1853150343
+      mapa_02_agua_tildeland_47: 1031788995
+      mapa_02_agua_tildeland_84: -544317631
+      mapa_02_agua_tildeland_13: -1801660043
+      mapa_02_agua_tildeland_59: 1751571332
+      mapa_02_agua_tildeland_66: 1880507351
+      mapa_02_agua_tildeland_49: -465592880
+      mapa_02_agua_tildeland_8: 641041617
+      mapa_02_agua_tildeland_73: 1759389101
+      mapa_02_agua_tildeland_18: -1652365941
+      mapa_02_agua_tildeland_19: 1899462257
+      mapa_02_agua_tildeland_36: 1394876103
+      mapa_02_agua_tildeland_12: 1451090227
+      mapa_02_agua_tildeland_21: 1247986230
+      mapa_02_agua_tildeland_76: -2077172043
+      mapa_02_agua_tildeland_15: 283092584
+      mapa_02_agua_tildeland_3: -1579106034
+      mapa_02_agua_tildeland_37: 591872794
+      mapa_02_agua_tildeland_63: 419161975
+      mapa_02_agua_tildeland_39: -1074568405
+      mapa_02_agua_tildeland_41: 788386900
+      mapa_02_agua_tildeland_17: -1353557196
+      mapa_02_agua_tildeland_74: 1893695493
+      mapa_02_agua_tildeland_85: 581934315
+      mapa_02_agua_tildeland_88: -341185279
+      mapa_02_agua_tildeland_11: -731012605
+      mapa_02_agua_tildeland_67: -864585077
+      mapa_02_agua_tildeland_70: 90777163
+      mapa_02_agua_tildeland_0: -266285519
+      mapa_02_agua_tildeland_75: 611088764
+      mapa_02_agua_tildeland_1: -1573428378
+      mapa_02_agua_tildeland_56: 971329226
+      mapa_02_agua_tildeland_44: 794171040
+      mapa_02_agua_tildeland_51: -905747747
+      mapa_02_agua_tildeland_25: -1562626287
+      mapa_02_agua_tildeland_6: 835520636
+      mapa_02_agua_tildeland_45: -1705962217
+      mapa_02_agua_tildeland_35: 1807459869
+      mapa_02_agua_tildeland_34: -1497348393
+      mapa_02_agua_tildeland_23: 1023738431
+      mapa_02_agua_tildeland_80: -291568825
+      mapa_02_agua_tildeland_2: -984024973
+      mapa_02_agua_tildeland_50: -273743930
+      mapa_02_agua_tildeland_30: 1773216239
+      mapa_02_agua_tildeland_43: -234214876
+      mapa_02_agua_tildeland_46: 1595568212
+      mapa_02_agua_tildeland_5: -404653342
+      mapa_02_agua_tildeland_31: 837025247
+      mapa_02_agua_tildeland_40: 1444056652
+      mapa_02_agua_tildeland_68: 802651553
+      mapa_02_agua_tildeland_62: -1940255345
+      mapa_02_agua_tildeland_69: -135915765
+      mapa_02_agua_tildeland_57: -1886081184
+      mapa_02_agua_tildeland_29: -1750974431
+      mapa_02_agua_tildeland_78: 1944020032
+      mapa_02_agua_tildeland_64: -82045455
+      mapa_02_agua_tildeland_83: -489133965
+      mapa_02_agua_tildeland_32: -340529673
+      mapa_02_agua_tildeland_10: 1731917166
+      mapa_02_agua_tildeland_48: -1658925798
+      mapa_02_agua_tildeland_53: 1766071539
+      mapa_02_agua_tildeland_86: -697518560
+      mapa_02_agua_tildeland_28: 2012867568
+      mapa_02_agua_tildeland_7: 1906177206
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
