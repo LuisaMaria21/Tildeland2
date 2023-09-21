@@ -1,0 +1,8143 @@
+fileFormatVersion: 2
+guid: 4d20e73159ec96343bfded636da3b10a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mapaarriba3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2307
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549cb3945cb38974790223d8f06c84d7
+      internalID: -2112149112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2307
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2f51d56f75e4a41965927909f16ff5
+      internalID: -1282201251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2307
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25bd61cd45d0244f8f5853f2bd95b20
+      internalID: -472405299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2307
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9328a975fab6554c97d812a29d40459
+      internalID: 1850781970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2179
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ab95c01cf690a4f9baddd33755c7b5
+      internalID: -819218774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2179
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b043d03407bc2d7409e52f67f4a87a91
+      internalID: 283572168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2179
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d603311eb824c7c47acf24e20219013c
+      internalID: -850594887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2179
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9385d910aa7fd77468e62137d774082b
+      internalID: -1205518532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2051
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48053aaf86e87f46849d234d79a09ce
+      internalID: -1468820608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2051
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836f6e2401427c649a54e48967f55183
+      internalID: 2063552635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2051
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682823e848678044bb8bd2099d6fc99f
+      internalID: 1166058108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2051
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb3381cecc9a40448ef94b9364e3a98
+      internalID: 776936854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1923
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162914c5c81b2014fb8aea1a54e30500
+      internalID: -904494481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1923
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c96ff886e05ce148bc958beaeac2da0
+      internalID: -1531785815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1923
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a9c993738627a42bdb9780b1980d6b
+      internalID: -1049861162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1923
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f85e3cbeeccac04d83599dcbd819a3e
+      internalID: 1387833875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1795
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe7f2ec7feb0984ba833c3a09595764
+      internalID: -1028854857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1795
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43aeb86678e1e3d4db2b5607daf2fff5
+      internalID: -1952748513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1795
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec35644d4bf945b4f81d55d730e6a202
+      internalID: -473203246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1795
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f867305da412c744a0f5e422bb5f54a
+      internalID: 744148001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1795
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ef60f817447cd4caf9d7b42a6325fa
+      internalID: 121193905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1667
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f2c6ff76848b24c999a58a7400612d
+      internalID: -1993177218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1667
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c305b67207efc51439530ee1b3f7abd6
+      internalID: 611814632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1667
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7c1c90abdc7a3428b14e4351de124d
+      internalID: -1869360584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1667
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374033bbc26a7834ebad5e2b136c86e3
+      internalID: -626060356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1667
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4c735326142a84396ac4d86cc20444
+      internalID: -2134304394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ff2709b5491684fae881e0e7436835
+      internalID: -1176665739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f842c7ca78534df4996651db321e76a5
+      internalID: -695218262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63493ef7392e56d47b343d8b65780b91
+      internalID: -2132380880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836d21fce11c17a4b8baa6ed3b21b44b
+      internalID: 258180082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7293c7b940725294da527caa6cb156a6
+      internalID: 789268224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_31
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7dd72255517f041afd3e5b352722e7
+      internalID: -1165143423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_32
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f16d5c3836666c45aaffb30d5ddfae5
+      internalID: -797410788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_33
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49b20ddd21b05646af3c7b7dac43103
+      internalID: 537158151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5e4d88f653fb34183d8c8675dd945c
+      internalID: 1145804359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_35
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70cbc26c6e58cd4f9c04925d422f566
+      internalID: -2026679867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_36
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0985b6652dab1541916813cf2129f97
+      internalID: -372446436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_37
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc96272705359f5439abb2897d436374
+      internalID: 1296787241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94294ca93ef85e4782ccd919b3c3b89
+      internalID: -1524852377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_39
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b97b563a0f1b2044bedae5978eda7b3
+      internalID: -1415156792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_40
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082e9f9c1663ce74aa995bc71a594874
+      internalID: 693846202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_41
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44be9e80caf77bf45b9e7d3ebb1bdf33
+      internalID: -961272110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_42
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d0831a5e29f8146af67b8b25cb1e7a
+      internalID: -500656210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_43
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c664ecaabdf47048890c76c6b39e2cd
+      internalID: -1276838658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_44
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f778b8302f04e44ba7dd577e74bdae
+      internalID: -899176967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_45
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31068876c2507ae4ebbe7aa81a6f02a7
+      internalID: 532388108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_46
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edeae5b154eef248bfb33892dd44625
+      internalID: -1287222148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_47
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99378e41d02814c4283ae8a6bebe990a
+      internalID: 1193176265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_48
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39aa2d3ac13c5345907578307f3e60c
+      internalID: 1091733248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_49
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bea3198fdfb2845ab0c0e89bef672d
+      internalID: 183584990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_50
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54c7a0e95fcb584db2dc589b0233032
+      internalID: 294072504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_51
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1539
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a76db0bf7ef2e4f9b2b850d70b3071
+      internalID: -1927993968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92635efaab5933342bec14395cb3690a
+      internalID: 880638040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5089190aa4de4084ba119d2820d2b0cc
+      internalID: 315697878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cacb281803dfb4ab98ad713a801398
+      internalID: -880659078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b10b39190c93da48836595490d049ea
+      internalID: -594246336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b390e7acd7b3e9f41bf4925420ab8977
+      internalID: 560240685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_57
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203600e536653474abc1d66407ea9340
+      internalID: -79773341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6219cacd3f061db47ba22d42bbb5ce8f
+      internalID: -479352243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_59
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979702e224854594c8d2a65d707a371b
+      internalID: -1833749044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_60
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c38b2d16879d04483fcee77c025819
+      internalID: 1450889897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_61
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e5d9195b16b5d4a8eb378bff1b96c4
+      internalID: -522318306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_62
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bab8417f07061a478310e9f78c546b5
+      internalID: -1194257949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_63
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca5ada20631d2d4aba11920162b9b11
+      internalID: 718822116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_64
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ffbdbbc7b7f0940b081c095577887d
+      internalID: -1026312123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_65
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422fe29e1a66c3d47a19a2b25d7a2e6a
+      internalID: -328327413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_66
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ef8ad7b3faad142a8c24c7e0495b3e
+      internalID: -1072772122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_67
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6cb7dc690266541b1e2c5c13d2f61f
+      internalID: 1728015292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_68
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830896e7d35e40440aa88b07d0392ecc
+      internalID: -1116640512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_69
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b608c5b660dc3864eb27a40c20a82d16
+      internalID: -1854744211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_70
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e060d0d0d9d5b904a8d4a256dc3a8159
+      internalID: -1869334100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_71
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f85626cda5209840bae0da4162fc806
+      internalID: 1280094203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_72
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba92e1d0c0e4b874aa6778062c830e7b
+      internalID: -89233589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_73
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7e99060435cea47806c48506622d5d
+      internalID: 1628475520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_74
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5303b8f30ee1ab84ebbe160f4b11036d
+      internalID: 239946355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_75
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a93301f3d6a4c4798687ca0674742f
+      internalID: 358017861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_76
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0c5fa47255e9947b6c6fdeb04b1f42
+      internalID: -190526504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_77
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1411
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce95bf2129b048442ba4a81c10d6e8df
+      internalID: 1448187349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb99c94b0a11d14f8b0029d447a95a0
+      internalID: 846794826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7901b8ed0a19f347ab9a922caaa7146
+      internalID: 585319336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3866a9865bd0c2a4fa16f39ef7c73464
+      internalID: -482946818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9261a863af89a418155df030604d10
+      internalID: 985064706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_82
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658801b963473d842998c35a2260011f
+      internalID: 888337200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_83
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a232be3674fbd2e49bb521dad3ac6c7b
+      internalID: -1597998331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_84
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c2bb0989ec02545a9426ba211d33b6
+      internalID: -179520523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_85
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f407773c248ea8548a03a41c39ad918e
+      internalID: 873418418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_86
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b862892aae1cf849a6aeae94d4d4c42
+      internalID: -1275960109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_87
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cbe69dc3ab4954ca8d890869e111aa
+      internalID: -943908729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_88
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21adbae98a7a224a8ace0081070ed34
+      internalID: 549173193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_89
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03233fefc1c39e44b6514d93adef197
+      internalID: -1581704405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_90
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d309ce6f4a6293149848b329c9c41883
+      internalID: -1834238388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_91
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6c260473a336c478dd1cc898929a8e
+      internalID: 1732514302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_92
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39730202791c86a45ac89ffebcd9d40e
+      internalID: -638584886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_93
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ebae49b0c2d08428483099a831a8a2
+      internalID: -1871949538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_94
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48687af8d721cf43b510510c8807970
+      internalID: -388594003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_95
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3ed4424d8ce3b468ebce5d4a003964
+      internalID: -970075848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_96
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22a1a846a24fbb4eb78dedcf3c2491f
+      internalID: 2147180989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_97
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d3ee90fc666e647bfe3e3da82c1ab8
+      internalID: 1011032673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_98
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08982e23a92d5304dbeadc9e68565922
+      internalID: 1513344037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_99
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588088aafb10e3344b8fe1ae22d75854
+      internalID: -1840855544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_100
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d53a4477a24ce4d85e07e3deee65f8
+      internalID: 1073308904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_101
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab07fb26066bb44a86f85c277276845
+      internalID: 1672235619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_102
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b3e410c424e234aba934b1bb8a805e
+      internalID: 810061670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_103
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1283
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a61e83e3007164cbb6df17f1791b2d
+      internalID: -2001432579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898cf2f6d06cd7f4e80eb48ceb563018
+      internalID: -297880819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b8b8c888adb1d4b902af3616257528
+      internalID: -296870435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c452f871d71a3c2418f3fedbc54172fe
+      internalID: 2121160544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_107
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fe024aeb917d348a81744a3d06675a
+      internalID: 370714630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_108
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f776f91e3c81de49a8483206d1c27f9
+      internalID: -1621295392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_109
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0887280d476086548955d23a831c811a
+      internalID: -127680268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_110
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2268d9f235c63a848887ffb4827994d9
+      internalID: -2808175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_111
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe441be0030a914daee65a70f3fa3b6
+      internalID: 2028035704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_112
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04daed2cd3a7e64fa4a354f0c541ee3
+      internalID: -1787205789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_113
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16550c95657eba441850b670d56e9594
+      internalID: -332781125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_114
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d765e82028aa3949a268beb6af503b6
+      internalID: 107735074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_115
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f38c9d33bef9f14098215202686c670
+      internalID: -308876079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_116
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb2b7c9b27b66d4c9e0a7b72665cb56
+      internalID: -1796794145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_117
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f562b11792efc044b36732a40f44a0a
+      internalID: 513107670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_118
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29417cadf682b384c981bb2d46f45e2e
+      internalID: 709721693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_119
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1897697bc37d1334599b23917a86b625
+      internalID: -537608721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_120
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4dd5b66afc56c41aa9f712d6c1fd7c
+      internalID: -150835938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_121
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77699f692fb3e05459ea7322e98020aa
+      internalID: 430482670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_122
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2b3273946d4b343add9aef5dbc7cbe
+      internalID: 1175206132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_123
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb5aa3cb81ce0649b2cdaaf2d20462e
+      internalID: 2076979227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_124
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c04d2c9d9cc19743b0638ae07cc6b43
+      internalID: 908484446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_125
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad823f40ef6ae5640b1150a04a025a19
+      internalID: -1513464456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_126
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc69882292be15f4cb08e5bb0ebca660
+      internalID: -942535671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_127
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54a89b520b628c42b3f563a4bda6c44
+      internalID: 1813645143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_128
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0830d278d4b055842a5b2bffec69151a
+      internalID: 862268545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_129
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1155
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08301a609a839ce4380f84d771994bdb
+      internalID: 2061376265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac1ac1bff116cc4885fc1a132cc124d
+      internalID: -1347922663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_131
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681186baa191a654dbafa791958dabfc
+      internalID: 1408187132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66249050cf30b9548848a6928c878b89
+      internalID: -528200590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_133
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245df41a041135a469a5c3d8d0c96469
+      internalID: -1543890951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_134
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3856f9d082f47904691d891b8292adfb
+      internalID: -1892801415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_135
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cec27d0772a7f41a5f8eba9866e662
+      internalID: -108331600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_136
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2390ec68c2b323e46aea1545fc840261
+      internalID: -870525209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_137
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0119624526d9d548be4a586a6add291
+      internalID: 1929782099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_138
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34977043012887244959e719f8c48d80
+      internalID: -1681860068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_139
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c97262579e2fa4f995a473ed204e48
+      internalID: -2093476650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_140
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f12e748da765d42a65fccb1a0791aa
+      internalID: 1150178129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_141
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b9f07bf7f4e3a45b5167743c5fc577
+      internalID: 121087020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_142
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6497bf5f31b9e245a8e3f283ffb6f9d
+      internalID: -1486607572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_143
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f256f2c2be67d49bb3c54585f93eb6
+      internalID: -112640764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_144
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce76981908df14f47a74cf4b63afa67d
+      internalID: -576573351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_145
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8930448870bdf7d4ebe79b8c8363fffb
+      internalID: 1797461905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_146
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cb414be06423247974d61f60478226
+      internalID: 931627324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_147
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6909a60ae804e8b41b0aad1c309291ed
+      internalID: -1725771922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_148
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c688639b493541b4886790a91b8ce2a7
+      internalID: -414757647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_149
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b1ba038a3df66459d12a89a53af9ce
+      internalID: -2086772011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_150
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8df466894406ff48ac2e57874b9344e
+      internalID: -1009307012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_151
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25263a18c6e5ebf4d92b179aacac30ce
+      internalID: 2146968765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_152
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2c15f049eff944aa770ceeae6deba4
+      internalID: -349963507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_153
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3498f1eb71fdae4b95aa0598d182f0c
+      internalID: 600749499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_154
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91462aaabde3d19449959f0577348cab
+      internalID: 1427036573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_155
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1027
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e82d3cdebc51994e9be9e10797c95e5
+      internalID: 1880966519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33320997679dc1d40a26a5a0d86ba0a7
+      internalID: -2141173148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_157
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca921edaf60ee4c44a8e808e89c36637
+      internalID: -2094943889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_158
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f887479bb84054f9cf385a63adc77d
+      internalID: -90969392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_159
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952e7b502d6d4fe479a1862c9ae1c8ba
+      internalID: -108457627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_160
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5063c61f1d897a541b1f511690b26a17
+      internalID: -800613020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_161
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cbb63806b211f4f91acb61ce785ff0
+      internalID: -1178481047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_162
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373f8c8e7f9053f41868612415455ec4
+      internalID: 1495698428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_163
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af6e8ff63c5ccd4490382d7e3f8ac67
+      internalID: 1781610326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_164
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f8d81e958842c448dddbb312abf8b4
+      internalID: 1496525130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_165
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af96cec9fbcea5a4e8f7efa13f0a19f2
+      internalID: 1680588040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_166
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403be19e42c4dbd4cb9fe6a67234d585
+      internalID: -1229701029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_167
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc78811cd9b725443a27c7ffcd216794
+      internalID: -402881337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_168
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a54a64c0440eb46855344728640515
+      internalID: 873101579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_169
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669d894cd0505c74a8c14061fffb4ed4
+      internalID: 1034660374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_170
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689406751c89a0a4e9bd22d4567eda00
+      internalID: 1045801436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_171
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49414450d7fd9b24394b9c329430322e
+      internalID: 671251831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_172
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d22dced83b27e148bee70c4c6129c43
+      internalID: -1797987980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_173
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59bf4b428f2e5a44871389d7505d34e
+      internalID: 2057197326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_174
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f3c61b4fb60ed4abc5a38e684e1b75
+      internalID: 125934473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_175
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3d9d235fb03d94fad095d20376f09a
+      internalID: 1213071507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_176
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47d5e73757a7ac40ba0da18063dd840
+      internalID: -2026165549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_177
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d5d5385cb9d77488192022cef10c54
+      internalID: 554595756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_178
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383e6bab9b226844d8cd68c584799bd0
+      internalID: -1836553273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_179
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca9165a92740764e8399e8796c99119
+      internalID: -586342922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_180
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c41ac4f2f72354f8b12b21e550427c
+      internalID: -535397670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_181
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 899
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7beff0e92a8dc74aaebaf30fe2d87b1
+      internalID: 120864951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57d3540e603f4846ac3425ef83e0f57
+      internalID: -621098436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_183
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78afa8bf47ef2b24bbcf9005b0e26eb2
+      internalID: 94138227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760cdda9c05b9a447a7b395beff5b1a6
+      internalID: 620902018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_185
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969ec035e318bc74b93760501fd32906
+      internalID: 597820053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_186
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121671928acdf6e488d000f612fb05b2
+      internalID: 77553044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_187
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b981e9caf37d714baa64816e36b4191
+      internalID: 1997784685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_188
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790f50a477faf2843a6342373c40d2ab
+      internalID: -1494415232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_189
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c46dd9f6b377df44bc93a2fe9991f04
+      internalID: 449331042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_190
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da1490e38f2f184bba42068bb2590e8
+      internalID: 146471404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_191
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731980e6e5cd9ac46bd5b789f477f5fc
+      internalID: 202857524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_192
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d653ba56ec5055d4a979ed5999ddf901
+      internalID: -323777516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_193
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cc920bb3144fe45a2a472afcefd17b
+      internalID: 826894205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_194
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2426a33f5652ad642ae001e5531c928a
+      internalID: 62871400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_195
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff05a94a466e4c4f83d4affa52093b0
+      internalID: 1939232512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_196
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818ba3dc801a37543b31dd3032e3b3a0
+      internalID: 601026884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_197
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66b5338af8dd384c819e16295d0e547
+      internalID: 1567551392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_198
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9082ddbcc6ea94f409e930bfda4342bc
+      internalID: -828038916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_199
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cf8ed91fa36ed4ea4a5241d0fef62f
+      internalID: 631456272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_200
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fa481656437364094fad2a0c66c44c
+      internalID: -2111512800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_201
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab340e21619c044e83792ef5328c5e8
+      internalID: -2102158628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_202
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa03b73c26c53994fb810e2c0d0c8455
+      internalID: -812409510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_203
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e0a8f15a123d443be80b6ce72c0259
+      internalID: -219484037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_204
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632811984f0fd254481f980720d1b37e
+      internalID: -459594868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_205
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15947ad11cdc7e645a6338033e7601a9
+      internalID: 446086934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_206
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d582f747135db40b2259447a6da0b9
+      internalID: -1461281956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_207
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 771
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098839f3f6183e94ba5bb20b05b36635
+      internalID: -1395946392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3991ff4bf3a614a88aa77a7e8db63f
+      internalID: -610712827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_209
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eaf209751011741b9089102cacd200
+      internalID: 893256489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_210
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0946009d0d299489e1b2f330c448da
+      internalID: -866327629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_211
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d9c6540096c3446a7100757197257a
+      internalID: -894358205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_212
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa19a179a916e448bb69e8743d1e657
+      internalID: 2039368631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_213
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a893ea01d5925444d944cb7ddc22fa03
+      internalID: -358840645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_214
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f42a9471b064941ae6922618fab3fa
+      internalID: 1996345712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_215
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58220b72a5a86948b27bc86bbb9d744
+      internalID: -490289286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_216
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc87c865f0bb94479e10d9d2a9be460
+      internalID: 447054796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_217
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ae54ebb226bde47850c989c9717772
+      internalID: 329172151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_218
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b1e6edd9d61004ea78c3ae4ce96560
+      internalID: -462309173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_219
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d8bcd75523d954f826df6b82feb64d
+      internalID: 407882187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_220
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a08d2c7de7ca84aaecf3b93f3bb2db
+      internalID: -845814655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_221
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e21f409a6d1d041a93c99b34be08e6
+      internalID: -806417468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_222
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238e32da836ef0a489e37ab4870baa4e
+      internalID: -170163438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_223
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eace3be0c4f765d4886b866e35279a5d
+      internalID: -1270452287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_224
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2faed1898f06a4988214302eeecc93
+      internalID: 1931584806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_225
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9aa83e4b46df84bb9ea54f2d40222f
+      internalID: 619339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_226
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973d6a7ca17ad6846881abe19eddc719
+      internalID: 1259395160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_227
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38d98d477afa1248a0a7ea4d0cb9d74
+      internalID: -272621992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_228
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47916b1552e65e4ebe9ab22988069bf
+      internalID: 1117659718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_229
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf7cb4187c35534a9982bfcaa03df04
+      internalID: 427417712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_230
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b1c33cef341804898c93075b55c072
+      internalID: 1720023517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_231
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfad030e1b7aa449801e04ccc0dc923
+      internalID: 1944430968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_232
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf21d0dbfeee2e4c987916bb3d37b8d
+      internalID: -92608672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_233
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 643
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce64b67eccbff8498fdb634731ae5d9
+      internalID: 1647484891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_234
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c2019e3fbe69148b05b20aa3c4a39d
+      internalID: 607959822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_235
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bbbd84a9039fd4bb81f68fc6977e9e
+      internalID: 1655324534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_236
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bc62edbde6a10439d62ee695ec6b7b
+      internalID: -974200623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_237
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276b5610af310544b9293a18c672eef1
+      internalID: 58674691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_238
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a9022c4b5b69548904c48f05764e68
+      internalID: -638974295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_239
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bb66c2ee00dcf43a5c223a2454fba6
+      internalID: 140945200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_240
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c8633109060a649aaf6c740ac3a304
+      internalID: 64261332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_241
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dda0d9f2806b4409cac2515997ca69
+      internalID: 1560812844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_242
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5371226426f1a504193811c704a7a603
+      internalID: -450255442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_243
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5229c1b8c8087d5479ed251dd31a1aef
+      internalID: -1621698629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_244
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1a65713eda69e4cbf7a4f56ed965eb
+      internalID: -163801308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_245
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f144dc14187be64dae302aa5216c6aa
+      internalID: -191689270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_246
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadf37c04e70ed34b8b060fbb99edf68
+      internalID: -1904634090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_247
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5878af86bde444dba776b4b304d734
+      internalID: 269831953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_248
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b94913dbd303954180598146910cad0
+      internalID: 1526899601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_249
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba75192035cd7114685aacb11266fe3d
+      internalID: -1793973149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_250
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131a61f72aa1d614e9594fd4815c22b5
+      internalID: 1789866225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_251
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ef766c19c42814fb6795328202ac7c
+      internalID: 1142302615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_252
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27abd4f438fc8944f9a5b3d318d8f447
+      internalID: -709055965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_253
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738a00c9c29386240920eeaca88e4246
+      internalID: -208087259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_254
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2644673dd21e314bbecd389f2587a81
+      internalID: -127932644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_255
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27521428d0c7f534da758ccdea6a8a84
+      internalID: 1747850000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_256
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59943ef3ed5022d4daf67a519eceadc7
+      internalID: -1764159937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_257
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6265c07f81e8aeb44b451d655e25cb95
+      internalID: 691367591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_258
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df95af132f7125c4d83817de491d4633
+      internalID: 1786028718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_259
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 515
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e53bd749f1d4646ab42a2ddffa9d29
+      internalID: -1075473299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_260
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c00fded353da54e85c1bb133d7732a
+      internalID: 447469921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_261
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944a5cd914e22ae42b1a2901308c725e
+      internalID: 164127837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_262
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee18b6f16f904f646ac2369386121e56
+      internalID: 1801016422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_263
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d8d63bbceee18498db310276b4ec16
+      internalID: -1231001629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_264
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ab1a20cb51f3e489f762a593da1672
+      internalID: -2045923812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_265
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e53816cf17a9874eaf65fb5b7292367
+      internalID: -427725246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_266
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52945c21f6eb7b846bd820ee89894086
+      internalID: 638554264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_267
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2ab072c05878c46a0135e8ee1fa4cd
+      internalID: -2131237386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_268
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0d12c6da04eab4faf588b1faf2ff4a
+      internalID: -1177880647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_269
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421f295fa19996943a41ed490c4e614a
+      internalID: -1956965743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_270
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123965ed752bed24fab5a0f534ec6c55
+      internalID: -2060155078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_271
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b10ed48c3b08994ab5b3a8022b7c5f8
+      internalID: -1241733803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_272
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dced45d568ef49a49a568399f5c6ea30
+      internalID: 1941002845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_273
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad658ada82e03c45ab6b8458e23380b
+      internalID: 1179114039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_274
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955a3d840b062474a97cec3ba69851eb
+      internalID: 835791813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_275
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb61ca8634dad140b3490a582ab08fa
+      internalID: 266093028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_276
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6a7d106c2ebe549bbb1c2b0e53d8d4
+      internalID: 1002217052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_277
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de74d3be083f8324bb541f0f1ab1dafd
+      internalID: -1589864361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_278
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe3d1f4cbe180b45a5878481182df62
+      internalID: -2020824946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_279
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb96acac8db39c46980445ff0363eae
+      internalID: -1922605528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_280
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f0bd1de5ae9724bb75f76d370b167c
+      internalID: 1699730528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_281
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c3c4451d59fe5439a895ca15467756
+      internalID: -2140174997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_282
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aacd0e9087b65f4da1804c2e50eb5d0
+      internalID: 1613006241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_283
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fc7a02a125d584b93f883499341b03
+      internalID: -330085271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_284
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130009b4e57452d4b9698c0ca99e1f88
+      internalID: -922505930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_285
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1b57aee557b784390a27a6c931ebe1
+      internalID: 2070573253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_286
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd1f4eddfbc15742adf9b4a3a853383
+      internalID: -1420325347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_287
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cc3328d25244a469d73057576e8f57
+      internalID: -277653466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_288
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e51d331e32f4c47b6b779f0e535a48
+      internalID: -1325499375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_289
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953f773f05a247048afd8b767f26060e
+      internalID: 1314948690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_290
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a2c113c652e27449051ab6ee752ac3
+      internalID: -1277020265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_291
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4ab01e6ec5c564d8ebf9df8c7cc049
+      internalID: -2017798971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_292
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a53989662cc6dd41b7e571cfed43cd6
+      internalID: 863403306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_293
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6910864f1a6406469b6cc2c5e851772
+      internalID: -49001333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_294
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e3356d650dadb41a8afe08af89bb0a
+      internalID: -843157939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_295
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f91e46a7ba2ae746ba2411e0c046d0a
+      internalID: 50843235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_296
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33317f0531b2a6846b15e51335a62251
+      internalID: 396781001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_297
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884c2468132994f4ea29ba99bccf362e
+      internalID: 1807051876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_298
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec6073277d74d64fabd83e6184c3e97
+      internalID: 789917142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_299
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be96ba5f4a77c540932b1e9f09f5a8b
+      internalID: -1035906308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_300
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd09f7bf03fa6f42865c02855e68908
+      internalID: 1474995110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_301
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b3ff99bc4a942448f0109dd2a7728c
+      internalID: 293035752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_302
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a7997a5d210b74a866602e2ccb743e
+      internalID: -1944980115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_303
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f66483b1d932b34bac986810556c165
+      internalID: -1976312012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_304
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9328df8b66256f240be85eecddaab021
+      internalID: -1022922890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_305
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22c8802cb23ddd48a7f24a94f3d5d10
+      internalID: -1836891338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_306
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec0a3c8acb227d45977f2660e6ebf3c
+      internalID: 638701347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_307
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cae8fe8b32b474291c475b6cd40554
+      internalID: -2049008994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_308
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55daa30c3bad6a04da03d852f03ff91d
+      internalID: 115750116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_309
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fd10a4faaf6d14aa9ff7911abb5470
+      internalID: -1049130333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_310
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d61416d6f980e40987912faf06d8eb
+      internalID: 1821030263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_311
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed87d514be04c044c91c06e4c1d46dc1
+      internalID: -946131379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_312
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9253871920522a24cb67ab8e7a6b3f54
+      internalID: 61826444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_313
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeb6dc0a37339f4285dbda7e6af87f8
+      internalID: 1139636367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_314
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02a6920fa8156341b3faa0a3d914207
+      internalID: 1829632189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_315
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c165a9488ed33b4aa7e729316dbd418
+      internalID: 1009411958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_316
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55e4c6690d898c408c71a4d1ec32c47
+      internalID: 894307083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_317
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca137a78945fc1c4ca938be9292c73e0
+      internalID: -796090709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_318
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab870b0318faa0488e84399614be095
+      internalID: 1354685927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_319
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3d3b5d4f1048b47a531472877bbcec
+      internalID: 1526263493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_320
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5dcff888f7f2a4db8c3beab4479e10
+      internalID: 1582102080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_321
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f98c66d1cefa20488797f765b2f376a
+      internalID: -797473952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_322
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52621e589c9adea4782b400e2724f542
+      internalID: -1908687567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_323
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8a4dff067b61a4ab47fe4d8220275c
+      internalID: -894747868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_324
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626cb751cd82bfd4f8ac40e6b63154c6
+      internalID: -556183126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_325
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29996ada5b0cf9d479b459bdb2f01914
+      internalID: -1108855969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_326
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49da0570dadee6d4cb6c1b7db27e7df7
+      internalID: 938408126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_327
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b9cecf3f985e642a4d9cc32d662121
+      internalID: 1334907611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_328
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559bb7f62252d4b45bafed548450c8fc
+      internalID: 1361802162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_329
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f77874b1d0c7348849a51327642dc1
+      internalID: -1746504200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_330
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4e73c6f2e5bf4479136985c3442fa1
+      internalID: -746877458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_331
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e0b2e0d5667fa4cad8da7c775f969a
+      internalID: -1343424696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_332
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c281307f7cf2946a2e676040a59848
+      internalID: -1469586579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_333
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0db0784056c9dd4ab5da630303b93de
+      internalID: 676677718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_334
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecd13b01bd6fb143a43549594a688e9
+      internalID: -1524385564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_335
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2938796ccad9e06459a1a38aa8dd2bf6
+      internalID: 901309653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_336
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54eb22abb573b243bbc9c6f6360cb04
+      internalID: 822467853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_337
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 131
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abfc1676202b884595931660bbea4e0
+      internalID: -559047895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_338
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5c27d08f9fe4846bbb7e538a4e375b
+      internalID: -415542163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_339
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b6b659f45ed2f408af6ce6fbc6a1f0
+      internalID: 1295520666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_340
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5f3356905728d4bbab23a28055927e
+      internalID: -2140869427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_341
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c083298e1f2b984c8c3739cba269165
+      internalID: 713670974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_342
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beee7caada716748bcf6a59e7ddbe93
+      internalID: 770296182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_343
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6007e3265605b498ec3542a6599dd8
+      internalID: -517473895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_344
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2e46574206e4a4ab574929bdac60ef
+      internalID: 626740244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_345
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db22e6d92aab18b479ccb5a08ec3de2f
+      internalID: 1906797472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_346
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101cd91c672500644beb6a3908c7d441
+      internalID: -383506929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_347
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885ff708c03a81e438c4d5a5332f8835
+      internalID: 753450648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_348
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99a3850c464308428c283fb1848b170
+      internalID: -757748458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_349
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503116aee91a85b41b864271184181fb
+      internalID: -642842373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_350
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fe83812e411ac4a9ebebfb74d72f45
+      internalID: -1544227885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_351
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d09563bfb69e847bf2c444affdc8e8
+      internalID: 1332202264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_352
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458eb2f6b1dac00459744aa37fa580e0
+      internalID: 1204482809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_353
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83845300e9eeddf4eb01daaaaa260ed4
+      internalID: 779609306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_354
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bd1af9f5781164f87fb49286131aa7
+      internalID: 1367023632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_355
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a55211d1cb0d6d4e93cf63a233b4989
+      internalID: 834298900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_356
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe7087aba3df3b409030045423511e4
+      internalID: 306057516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_357
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6dce7bf7d39be42b969f97548c2c2d
+      internalID: -1687404731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_358
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e3f42a5a07a9d47a19649658d3efd4
+      internalID: 1837999082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_359
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d182a18839c0d8444a671f31c332fed3
+      internalID: -833448398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_360
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1f30ddd750da74cbd23a0aa419e21f
+      internalID: -1586176286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_361
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2881c630284260544829743f15055d74
+      internalID: 1488418781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_362
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e905534be26d8cc4e8b1fc9def713e23
+      internalID: -67210704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapaarriba3_363
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab6918abe8da6040877af4d31a91805
+      internalID: -2130585968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mapaarriba3_196: 601026884
+      mapaarriba3_243: -1621698629
+      mapaarriba3_221: -806417468
+      mapaarriba3_351: 1332202264
+      mapaarriba3_311: -946131379
+      mapaarriba3_60: 1450889897
+      mapaarriba3_239: 140945200
+      mapaarriba3_55: -594246336
+      mapaarriba3_274: 835791813
+      mapaarriba3_142: -1486607572
+      mapaarriba3_13: -1531785815
+      mapaarriba3_240: 64261332
+      mapaarriba3_5: 283572168
+      mapaarriba3_293: -49001333
+      mapaarriba3_186: 77553044
+      mapaarriba3_76: -190526504
+      mapaarriba3_230: 1720023517
+      mapaarriba3_271: -1241733803
+      mapaarriba3_231: 1944430968
+      mapaarriba3_90: -1834238388
+      mapaarriba3_272: 1941002845
+      mapaarriba3_61: -522318306
+      mapaarriba3_197: 1567551392
+      mapaarriba3_245: -191689270
+      mapaarriba3_103: -2001432579
+      mapaarriba3_99: -1840855544
+      mapaarriba3_192: -323777516
+      mapaarriba3_8: -1468820608
+      mapaarriba3_1: -1282201251
+      mapaarriba3_30: 789268224
+      mapaarriba3_167: -402881337
+      mapaarriba3_201: -2102158628
+      mapaarriba3_224: 1931584806
+      mapaarriba3_283: -330085271
+      mapaarriba3_208: -610712827
+      mapaarriba3_144: -576573351
+      mapaarriba3_118: 709721693
+      mapaarriba3_303: -1976312012
+      mapaarriba3_93: -1871949538
+      mapaarriba3_257: 691367591
+      mapaarriba3_110: -2808175
+      mapaarriba3_58: -479352243
+      mapaarriba3_17: -1952748513
+      mapaarriba3_14: -1049861162
+      mapaarriba3_237: 58674691
+      mapaarriba3_4: -819218774
+      mapaarriba3_282: 1613006241
+      mapaarriba3_279: -1922605528
+      mapaarriba3_51: -1927993968
+      mapaarriba3_202: -812409510
+      mapaarriba3_310: 1821030263
+      mapaarriba3_181: 120864951
+      mapaarriba3_321: -797473952
+      mapaarriba3_40: 693846202
+      mapaarriba3_43: -1276838658
+      mapaarriba3_294: -843157939
+      mapaarriba3_52: 880638040
+      mapaarriba3_330: -746877458
+      mapaarriba3_312: 61826444
+      mapaarriba3_331: -1343424696
+      mapaarriba3_226: 1259395160
+      mapaarriba3_255: 1747850000
+      mapaarriba3_130: -1347922663
+      mapaarriba3_263: -1231001629
+      mapaarriba3_232: -92608672
+      mapaarriba3_183: 94138227
+      mapaarriba3_337: -559047895
+      mapaarriba3_78: 846794826
+      mapaarriba3_199: 631456272
+      mapaarriba3_291: -2017798971
+      mapaarriba3_298: 789917142
+      mapaarriba3_95: -970075848
+      mapaarriba3_280: 1699730528
+      mapaarriba3_299: -1035906308
+      mapaarriba3_145: 1797461905
+      mapaarriba3_193: 826894205
+      mapaarriba3_20: 121193905
+      mapaarriba3_134: -1892801415
+      mapaarriba3_300: 1474995110
+      mapaarriba3_75: 358017861
+      mapaarriba3_15: 1387833875
+      mapaarriba3_131: 1408187132
+      mapaarriba3_227: -272621992
+      mapaarriba3_241: 1560812844
+      mapaarriba3_260: 447469921
+      mapaarriba3_215: -490289286
+      mapaarriba3_266: 638554264
+      mapaarriba3_338: -415542163
+      mapaarriba3_249: -1793973149
+      mapaarriba3_44: -899176967
+      mapaarriba3_33: 537158151
+      mapaarriba3_324: -556183126
+      mapaarriba3_278: -2020824946
+      mapaarriba3_166: -1229701029
+      mapaarriba3_360: -1586176286
+      mapaarriba3_361: 1488418781
+      mapaarriba3_125: -1513464456
+      mapaarriba3_347: 753450648
+      mapaarriba3_334: -1524385564
+      mapaarriba3_2: -472405299
+      mapaarriba3_173: 2057197326
+      mapaarriba3_73: 1628475520
+      mapaarriba3_205: 446086934
+      mapaarriba3_295: 50843235
+      mapaarriba3_133: -1543890951
+      mapaarriba3_168: 873101579
+      mapaarriba3_309: -1049130333
+      mapaarriba3_284: -922505930
+      mapaarriba3_359: -833448398
+      mapaarriba3_106: 2121160544
+      mapaarriba3_94: -388594003
+      mapaarriba3_136: -870525209
+      mapaarriba3_88: 549173193
+      mapaarriba3_39: -1415156792
+      mapaarriba3_195: 1939232512
+      mapaarriba3_83: -1597998331
+      mapaarriba3_323: -894747868
+      mapaarriba3_169: 1034660374
+      mapaarriba3_189: 449331042
+      mapaarriba3_158: -90969392
+      mapaarriba3_252: -709055965
+      mapaarriba3_302: -1944980115
+      mapaarriba3_72: -89233589
+      mapaarriba3_53: 315697878
+      mapaarriba3_346: -383506929
+      mapaarriba3_89: -1581704405
+      mapaarriba3_171: 671251831
+      mapaarriba3_190: 146471404
+      mapaarriba3_223: -1270452287
+      mapaarriba3_62: -1194257949
+      mapaarriba3_96: 2147180989
+      mapaarriba3_148: -414757647
+      mapaarriba3_126: -942535671
+      mapaarriba3_143: -112640764
+      mapaarriba3_117: 513107670
+      mapaarriba3_138: -1681860068
+      mapaarriba3_128: 862268545
+      mapaarriba3_265: -427725246
+      mapaarriba3_24: -626060356
+      mapaarriba3_164: 1496525130
+      mapaarriba3_38: -1524852377
+      mapaarriba3_87: -943908729
+      mapaarriba3_182: -621098436
+      mapaarriba3_234: 607959822
+      mapaarriba3_328: 1361802162
+      mapaarriba3_27: -695218262
+      mapaarriba3_86: -1275960109
+      mapaarriba3_225: 619339
+      mapaarriba3_45: 532388108
+      mapaarriba3_57: -79773341
+      mapaarriba3_296: 396781001
+      mapaarriba3_297: 1807051876
+      mapaarriba3_268: -1177880647
+      mapaarriba3_352: 1204482809
+      mapaarriba3_50: 294072504
+      mapaarriba3_98: 1513344037
+      mapaarriba3_314: 1829632189
+      mapaarriba3_301: 293035752
+      mapaarriba3_10: 1166058108
+      mapaarriba3_70: -1869334100
+      mapaarriba3_85: 873418418
+      mapaarriba3_157: -2094943889
+      mapaarriba3_69: -1854744211
+      mapaarriba3_259: -1075473299
+      mapaarriba3_275: 266093028
+      mapaarriba3_327: 1334907611
+      mapaarriba3_64: -1026312123
+      mapaarriba3_12: -904494481
+      mapaarriba3_84: -179520523
+      mapaarriba3_286: -1420325347
+      mapaarriba3_29: 258180082
+      mapaarriba3_100: 1073308904
+      mapaarriba3_348: -757748458
+      mapaarriba3_343: -517473895
+      mapaarriba3_162: 1495698428
+      mapaarriba3_178: -1836553273
+      mapaarriba3_26: -1176665739
+      mapaarriba3_113: -332781125
+      mapaarriba3_270: -2060155078
+      mapaarriba3_248: 1526899601
+      mapaarriba3_333: 676677718
+      mapaarriba3_233: 1647484891
+      mapaarriba3_251: 1142302615
+      mapaarriba3_341: 713670974
+      mapaarriba3_203: -219484037
+      mapaarriba3_219: 407882187
+      mapaarriba3_345: 1906797472
+      mapaarriba3_172: -1797987980
+      mapaarriba3_185: 597820053
+      mapaarriba3_339: 1295520666
+      mapaarriba3_35: -2026679867
+      mapaarriba3_31: -1165143423
+      mapaarriba3_332: -1469586579
+      mapaarriba3_19: 744148001
+      mapaarriba3_80: -482946818
+      mapaarriba3_229: 427417712
+      mapaarriba3_42: -500656210
+      mapaarriba3_127: 1813645143
+      mapaarriba3_262: 1801016422
+      mapaarriba3_325: -1108855969
+      mapaarriba3_258: 1786028718
+      mapaarriba3_317: -796090709
+      mapaarriba3_175: 1213071507
+      mapaarriba3_155: 1880966519
+      mapaarriba3_315: 1009411958
+      mapaarriba3_77: 1448187349
+      mapaarriba3_146: 931627324
+      mapaarriba3_161: -1178481047
+      mapaarriba3_159: -108457627
+      mapaarriba3_313: 1139636367
+      mapaarriba3_81: 985064706
+      mapaarriba3_119: -537608721
+      mapaarriba3_149: -2086772011
+      mapaarriba3_174: 125934473
+      mapaarriba3_28: -2132380880
+      mapaarriba3_342: 770296182
+      mapaarriba3_23: -1869360584
+      mapaarriba3_277: -1589864361
+      mapaarriba3_65: -328327413
+      mapaarriba3_244: -163801308
+      mapaarriba3_285: 2070573253
+      mapaarriba3_68: -1116640512
+      mapaarriba3_322: -1908687567
+      mapaarriba3_292: 863403306
+      mapaarriba3_316: 894307083
+      mapaarriba3_154: 1427036573
+      mapaarriba3_289: 1314948690
+      mapaarriba3_180: -535397670
+      mapaarriba3_21: -1993177218
+      mapaarriba3_362: -67210704
+      mapaarriba3_56: 560240685
+      mapaarriba3_22: 611814632
+      mapaarriba3_140: 1150178129
+      mapaarriba3_256: -1764159937
+      mapaarriba3_105: -296870435
+      mapaarriba3_253: -208087259
+      mapaarriba3_320: 1582102080
+      mapaarriba3_207: -1395946392
+      mapaarriba3_307: -2049008994
+      mapaarriba3_153: 600749499
+      mapaarriba3_111: 2028035704
+      mapaarriba3_34: 1145804359
+      mapaarriba3_132: -528200590
+      mapaarriba3_228: 1117659718
+      mapaarriba3_54: -880659078
+      mapaarriba3_176: -2026165549
+      mapaarriba3_209: 893256489
+      mapaarriba3_66: -1072772122
+      mapaarriba3_139: -2093476650
+      mapaarriba3_318: 1354685927
+      mapaarriba3_36: -372446436
+      mapaarriba3_236: -974200623
+      mapaarriba3_67: 1728015292
+      mapaarriba3_48: 1091733248
+      mapaarriba3_354: 1367023632
+      mapaarriba3_358: 1837999082
+      mapaarriba3_109: -127680268
+      mapaarriba3_107: 370714630
+      mapaarriba3_305: -1836891338
+      mapaarriba3_59: -1833749044
+      mapaarriba3_198: -828038916
+      mapaarriba3_74: 239946355
+      mapaarriba3_235: 1655324534
+      mapaarriba3_250: 1789866225
+      mapaarriba3_165: 1680588040
+      mapaarriba3_6: -850594887
+      mapaarriba3_135: -108331600
+      mapaarriba3_220: -845814655
+      mapaarriba3_350: -1544227885
+      mapaarriba3_122: 1175206132
+      mapaarriba3_16: -1028854857
+      mapaarriba3_79: 585319336
+      mapaarriba3_355: 834298900
+      mapaarriba3_319: 1526263493
+      mapaarriba3_82: 888337200
+      mapaarriba3_46: -1287222148
+      mapaarriba3_247: 269831953
+      mapaarriba3_112: -1787205789
+      mapaarriba3_137: 1929782099
+      mapaarriba3_7: -1205518532
+      mapaarriba3_191: 202857524
+      mapaarriba3_116: -1796794145
+      mapaarriba3_356: 306057516
+      mapaarriba3_217: 329172151
+      mapaarriba3_340: -2140869427
+      mapaarriba3_121: 430482670
+      mapaarriba3_108: -1621295392
+      mapaarriba3_147: -1725771922
+      mapaarriba3_102: 810061670
+      mapaarriba3_11: 776936854
+      mapaarriba3_114: 107735074
+      mapaarriba3_150: -1009307012
+      mapaarriba3_9: 2063552635
+      mapaarriba3_211: -894358205
+      mapaarriba3_261: 164127837
+      mapaarriba3_344: 626740244
+      mapaarriba3_184: 620902018
+      mapaarriba3_212: 2039368631
+      mapaarriba3_357: -1687404731
+      mapaarriba3_124: 908484446
+      mapaarriba3_246: -1904634090
+      mapaarriba3_288: -1325499375
+      mapaarriba3_3: 1850781970
+      mapaarriba3_97: 1011032673
+      mapaarriba3_206: -1461281956
+      mapaarriba3_152: -349963507
+      mapaarriba3_47: 1193176265
+      mapaarriba3_163: 1781610326
+      mapaarriba3_141: 121087020
+      mapaarriba3_269: -1956965743
+      mapaarriba3_290: -1277020265
+      mapaarriba3_349: -642842373
+      mapaarriba3_353: 779609306
+      mapaarriba3_276: 1002217052
+      mapaarriba3_115: -308876079
+      mapaarriba3_287: -277653466
+      mapaarriba3_92: -638584886
+      mapaarriba3_187: 1997784685
+      mapaarriba3_264: -2045923812
+      mapaarriba3_267: -2131237386
+      mapaarriba3_204: -459594868
+      mapaarriba3_71: 1280094203
+      mapaarriba3_238: -638974295
+      mapaarriba3_151: 2146968765
+      mapaarriba3_335: 901309653
+      mapaarriba3_273: 1179114039
+      mapaarriba3_170: 1045801436
+      mapaarriba3_18: -473203246
+      mapaarriba3_200: -2111512800
+      mapaarriba3_123: 2076979227
+      mapaarriba3_37: 1296787241
+      mapaarriba3_214: 1996345712
+      mapaarriba3_177: 554595756
+      mapaarriba3_156: -2141173148
+      mapaarriba3_222: -170163438
+      mapaarriba3_129: 2061376265
+      mapaarriba3_242: -450255442
+      mapaarriba3_306: 638701347
+      mapaarriba3_210: -866327629
+      mapaarriba3_254: -127932644
+      mapaarriba3_41: -961272110
+      mapaarriba3_25: -2134304394
+      mapaarriba3_101: 1672235619
+      mapaarriba3_91: 1732514302
+      mapaarriba3_213: -358840645
+      mapaarriba3_179: -586342922
+      mapaarriba3_329: -1746504200
+      mapaarriba3_363: -2130585968
+      mapaarriba3_194: 62871400
+      mapaarriba3_160: -800613020
+      mapaarriba3_120: -150835938
+      mapaarriba3_281: -2140174997
+      mapaarriba3_0: -2112149112
+      mapaarriba3_32: -797410788
+      mapaarriba3_188: -1494415232
+      mapaarriba3_216: 447054796
+      mapaarriba3_336: 822467853
+      mapaarriba3_218: -462309173
+      mapaarriba3_308: 115750116
+      mapaarriba3_326: 938408126
+      mapaarriba3_104: -297880819
+      mapaarriba3_63: 718822116
+      mapaarriba3_304: -1022922890
+      mapaarriba3_49: 183584990
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
