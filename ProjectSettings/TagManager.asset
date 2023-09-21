@@ -50,15 +50,9 @@ TagManager:
   - name: cespedup
     uniqueID: 2557165623
     locked: 0
-  - name: cespedSombra
-    uniqueID: 3997908493
-    locked: 0
-  - name: arboles
-    uniqueID: 3159776971
+  - name: agua
+    uniqueID: 4228684395
     locked: 0
   - name: objetos
     uniqueID: 1259546931
-    locked: 0
-  - name: agua
-    uniqueID: 4228684395
     locked: 0
