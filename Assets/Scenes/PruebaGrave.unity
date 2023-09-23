@@ -194,9 +194,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Texto 2
-
-'
+  m_Text: "Palabras graves\n\nSon aquellas cuya s\xEDlaba t\xF3nica es la pen\xFAltima.
+    La s\xEDlaba que se pronuncia con m\xE1s fuerza y acento recae en la pen\xFAltima
+    s\xEDlaba de la palabra.\n"
 --- !u!222 &29376231
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18398,9 +18398,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Texto 3
-
-'
+  m_Text: "Deber\xE1s identificar y escribir las s\xEDlabas, luego seleccionar cu\xE1l
+    es la s\xEDlaba t\xF3nica de la palabra.\n\nRecuerda: las palabras graves llevan
+    tilde cuando no terminan en \u201Cn\u201D, \u201Cs\u201D o vocal."
 --- !u!222 &406091200
 CanvasRenderer:
   m_ObjectHideFlags: 0
