@@ -5,14 +5,14 @@ using UnityEngine.UI;
 
 public class LogicaVolumen : MonoBehaviour
 {
-    public slider;
+    public Slider slider;
     public float sliderValue;
-    public Image imagenMute;
+    public RawImage imagenMute;
     // Start is called before the first frame update
     void Start()
     {
         slider.value = PlayerPrefs.GetFloat("volumenAudio", 0.5f);
-        AudioListener.volume= slider.value;
+        AudioListener.volume = slider.value;
         RevisarSiEstoyMute();
     }
 
@@ -28,17 +28,11 @@ public class LogicaVolumen : MonoBehaviour
     {
         if (sliderValue == 0)
         {
-            imagenMute.enable = true;
+            imagenMute.enabled = true;
         }
         else
         {
-            imagenMute.enable = false;
+            imagenMute.enabled = false;
         }
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }
