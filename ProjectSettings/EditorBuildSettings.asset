@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Inicio.unity
     guid: bbd3c2c0eb770714098669188928ed0c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Correo.unity
     guid: 613a14cf1e7a296449c6df16e9129918
+  - enabled: 1
+    path: Assets/Scenes/PruebaGrave.unity
+    guid: 80ed6ec8d10539645b22729d517944fc
   m_configObjects: {}
