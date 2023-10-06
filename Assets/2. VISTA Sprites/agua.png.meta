@@ -2063,12 +2063,12 @@ TextureImporter:
       agua_81: -1429980163
       agua_16: 1678495999
       agua_30: -1619771739
-      agua_36: 1510929289
       agua_73: 1187377916
+      agua_36: 1510929289
       agua_90: 1498755510
       agua_32: -1593898431
-      agua_83: -572804245
       agua_18: 1863670617
+      agua_83: -572804245
       agua_33: -878155177
       agua_7: -743201660
       agua_78: 31026298
@@ -2105,9 +2105,9 @@ TextureImporter:
       agua_8: -1525303761
       agua_88: 1729432760
       agua_19: -669624546
+      agua_41: 525527449
       agua_24: -95018981
       agua_71: 259107817
-      agua_41: 525527449
       agua_53: 443999195
       agua_72: -305072977
       agua_77: 83225820
@@ -2127,8 +2127,8 @@ TextureImporter:
       agua_23: 592170553
       agua_3: -262759397
       agua_40: -948949046
-      agua_63: 536416135
       agua_9: 713272747
+      agua_63: 536416135
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

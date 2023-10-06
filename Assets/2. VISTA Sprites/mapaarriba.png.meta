@@ -4858,7 +4858,6 @@ TextureImporter:
       mapaarriba_152: -1661748985
       mapaarriba_209: 1500871133
       mapaarriba_213: 2042158046
-      mapaarriba_217: 963787069
       mapaarriba_2: -315198732
       mapaarriba_166: 454621436
       mapaarriba_100: 1421648906
@@ -4893,8 +4892,8 @@ TextureImporter:
       mapaarriba_190: 1497839724
       mapaarriba_214: -637032935
       mapaarriba_5: -735974754
-      mapaarriba_63: 1125022482
       mapaarriba_52: -2131351159
+      mapaarriba_63: 1125022482
       mapaarriba_187: -1666036043
       mapaarriba_83: 1905421415
       mapaarriba_93: -1736542009
@@ -4925,8 +4924,8 @@ TextureImporter:
       mapaarriba_171: 1866296896
       mapaarriba_4: 558731069
       mapaarriba_26: 718720439
-      mapaarriba_110: -92823824
       mapaarriba_216: 245132466
+      mapaarriba_110: -92823824
       mapaarriba_182: -1097443963
       mapaarriba_103: 498785638
       mapaarriba_57: -1437310314
@@ -4988,26 +4987,26 @@ TextureImporter:
       mapaarriba_38: 1895398556
       mapaarriba_145: -1363185136
       mapaarriba_205: -1504859639
-      mapaarriba_43: 1967019888
       mapaarriba_105: 1445157876
-      mapaarriba_80: -51238601
+      mapaarriba_43: 1967019888
       mapaarriba_176: -374202083
+      mapaarriba_80: -51238601
       mapaarriba_141: 461450254
       mapaarriba_32: -1510932082
-      mapaarriba_112: -1221963296
       mapaarriba_147: 146433122
       mapaarriba_165: -710841245
+      mapaarriba_112: -1221963296
       mapaarriba_60: -1876954974
       mapaarriba_19: 659180166
       mapaarriba_175: -1420457908
       mapaarriba_151: -1487459681
-      mapaarriba_178: 1716241817
+      mapaarriba_215: -1022253977
       mapaarriba_159: 1629505617
+      mapaarriba_178: 1716241817
       mapaarriba_126: -1321718263
       mapaarriba_66: -976973102
       mapaarriba_116: 575321087
       mapaarriba_211: -1046597870
-      mapaarriba_215: -1022253977
       mapaarriba_77: -1225270334
       mapaarriba_13: 240412454
       mapaarriba_51: -949095636
@@ -5062,6 +5061,7 @@ TextureImporter:
       mapaarriba_40: -1221853542
       mapaarriba_64: -488556244
       mapaarriba_133: 249638271
+      mapaarriba_217: 963787069
       mapaarriba_95: 1514568684
       mapaarriba_98: -1020386595
       mapaarriba_11: -1633237167

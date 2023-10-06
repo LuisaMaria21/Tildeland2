@@ -3067,7 +3067,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      mapaarriba2_132: 1445092465
+      mapaarriba2_81: -1732655978
       mapaarriba2_108: 2061138652
       mapaarriba2_113: -890609438
       mapaarriba2_120: -1684115696
@@ -3130,14 +3130,14 @@ TextureImporter:
       mapaarriba2_32: -711912691
       mapaarriba2_133: 616342753
       mapaarriba2_112: 1879113246
-      mapaarriba2_37: 590001470
-      mapaarriba2_3: -1276383744
-      mapaarriba2_75: -319202045
       mapaarriba2_42: 1371696781
+      mapaarriba2_75: -319202045
       mapaarriba2_90: 1811450326
+      mapaarriba2_37: 590001470
+      mapaarriba2_96: -991590968
       mapaarriba2_71: 838806672
       mapaarriba2_53: -945005027
-      mapaarriba2_96: -991590968
+      mapaarriba2_3: -1276383744
       mapaarriba2_5: -1740339562
       mapaarriba2_21: -1717844917
       mapaarriba2_61: -34156551
@@ -3204,8 +3204,8 @@ TextureImporter:
       mapaarriba2_27: 1071219373
       mapaarriba2_117: 76541611
       mapaarriba2_85: 115159192
+      mapaarriba2_132: 1445092465
       mapaarriba2_2: 1770384526
-      mapaarriba2_81: -1732655978
       mapaarriba2_106: -1529177548
   spritePackingTag: 
   pSDRemoveMatte: 0
