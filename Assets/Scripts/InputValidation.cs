@@ -40,8 +40,10 @@ public class InputValidation : MonoBehaviour
 
         if (inputField1.isFocused)
         {
+            Debug.Log("Lo q se escribe "+userInput);
             if (string.Equals(userInput, correctAnswer1, System.StringComparison.OrdinalIgnoreCase))
             {
+                Debug.Log("If equals1 "+userInput);
                 // La entrada es correcta para inputField1
                 wrongAnswerImage.SetActive(false);
                 correctAnswerImage.SetActive(true);
@@ -57,11 +59,13 @@ public class InputValidation : MonoBehaviour
         }
         else if (inputField2.isFocused)
         {
+            Debug.Log("Lo q se escribe "+userInput);
             if (string.Equals(userInput, correctAnswer2, System.StringComparison.OrdinalIgnoreCase))
             {
+                Debug.Log("If equals 2"+userInput);
                 // La entrada es correcta para inputField2
-                wrongAnswerImage2.SetActive(true);
-                correctAnswerImage2.SetActive(false);
+                wrongAnswerImage2.SetActive(false);
+                correctAnswerImage2.SetActive(true);
                 continueButton.interactable = false; // Deshabilita el botón
             }
             else
@@ -74,11 +78,13 @@ public class InputValidation : MonoBehaviour
         }
         else if (inputField3.isFocused)
         {
+            Debug.Log("Lo q se escribe 3 "+userInput);
             if (string.Equals(userInput, correctAnswer3, System.StringComparison.OrdinalIgnoreCase))
             {
+Debug.Log("If equals 3 "+userInput);
                 // La entrada es correcta para inputField2
-                wrongAnswerImage3.SetActive(true);
-                correctAnswerImage3.SetActive(false);
+                wrongAnswerImage3.SetActive(false);
+                correctAnswerImage3.SetActive(true);
                 continueButton.interactable = false; // Deshabilita el botón
             }
             else
@@ -91,11 +97,13 @@ public class InputValidation : MonoBehaviour
         }
         else if (inputField4.isFocused)
         {
+            Debug.Log("Lo q se escribe 4"+userInput);
             if (string.Equals(userInput, correctAnswer4, System.StringComparison.OrdinalIgnoreCase))
             {
+                Debug.Log("If equals 4 "+userInput);
                 // La entrada es correcta para inputField2
-                wrongAnswerImage4.SetActive(true);
-                correctAnswerImage4.SetActive(false);
+                wrongAnswerImage4.SetActive(false);
+                correctAnswerImage4.SetActive(true);
                 continueButton.interactable = false; // Deshabilita el botón
             }
             else

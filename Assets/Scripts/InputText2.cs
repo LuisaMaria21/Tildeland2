@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class InputText: MonoBehaviour
+public class InputText2: MonoBehaviour
 {
     public InputField inputField;
     public Button continueButton;
     public GameObject wrongAnswerImage;
     public GameObject correctAnswerImage;
 
-    private string correctAnswer = "fí";
+    private string correctAnswer = "len";
 
     private void Start()
     {
@@ -38,4 +38,3 @@ public class InputText: MonoBehaviour
         }
     }
 }
-
