@@ -5441,13 +5441,12 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       mapaarriba4_10: 890028745
-      mapaarriba4_199: 1099390054
+      mapaarriba4_194: -1997618524
       mapaarriba4_245: -628392462
       mapaarriba4_104: 48666292
       mapaarriba4_30: 2066958485
       mapaarriba4_229: 572858971
       mapaarriba4_217: -103502889
-      mapaarriba4_18: 2121088640
       mapaarriba4_48: -219876064
       mapaarriba4_195: 1765936547
       mapaarriba4_65: -1641000464
@@ -5457,6 +5456,7 @@ TextureImporter:
       mapaarriba4_167: 1857169890
       mapaarriba4_203: -902377301
       mapaarriba4_43: 871799594
+      mapaarriba4_37: 606211052
       mapaarriba4_119: -682055529
       mapaarriba4_89: 848380384
       mapaarriba4_70: 1641200694
@@ -5558,8 +5558,8 @@ TextureImporter:
       mapaarriba4_240: -984774654
       mapaarriba4_106: 612023083
       mapaarriba4_173: -133663025
-      mapaarriba4_175: 638586149
       mapaarriba4_238: -1866450859
+      mapaarriba4_175: 638586149
       mapaarriba4_85: 458156725
       mapaarriba4_3: 558608500
       mapaarriba4_34: -1676635623
@@ -5684,13 +5684,13 @@ TextureImporter:
       mapaarriba4_168: -1222447385
       mapaarriba4_113: -880209070
       mapaarriba4_188: 1234544906
+      mapaarriba4_199: 1099390054
       mapaarriba4_206: -1170625358
+      mapaarriba4_72: -807789870
+      mapaarriba4_250: -1072619744
       mapaarriba4_40: -304092345
       mapaarriba4_156: 1105197842
-      mapaarriba4_250: -1072619744
-      mapaarriba4_37: 606211052
-      mapaarriba4_72: -807789870
-      mapaarriba4_194: -1997618524
+      mapaarriba4_18: 2121088640
       mapaarriba4_95: 1511743879
       mapaarriba4_50: 2065283461
   spritePackingTag: 
