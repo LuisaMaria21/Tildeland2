@@ -104,7 +104,7 @@ Debug.Log("If equals 3 "+userInput);
                 // La entrada es correcta para inputField2
                 wrongAnswerImage4.SetActive(false);
                 correctAnswerImage4.SetActive(true);
-                continueButton.interactable = false; // Deshabilita el botón
+                continueButton.interactable = true; // Deshabilita el botón
             }
             else
             {
