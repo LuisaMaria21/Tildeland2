@@ -527,6 +527,7 @@ GameObject:
   - component: {fileID: 430716937}
   - component: {fileID: 430716936}
   - component: {fileID: 430716935}
+  - component: {fileID: 430716938}
   m_Layer: 5
   m_Name: Salir
   m_TagString: Untagged
@@ -599,7 +600,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 430716938}
         m_TargetAssemblyTypeName: Salir, Assembly-CSharp
         m_MethodName: Exit
         m_Mode: 1
@@ -649,6 +650,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 430716933}
   m_CullTransparentMesh: 1
+--- !u!114 &430716938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 430716933}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 854f7f66147b41b48875c5a81300c1bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &685859216
 GameObject:
   m_ObjectHideFlags: 0
@@ -678,13 +691,13 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: d6bdead3d4726e248895b3b56dd7326d, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.19
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 120
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
@@ -1008,7 +1021,7 @@ GameObject:
   - component: {fileID: 807334411}
   - component: {fileID: 807334410}
   - component: {fileID: 807334409}
-  - component: {fileID: 807334408}
+  - component: {fileID: 807334412}
   m_Layer: 5
   m_Name: "Bot\xF3nDocente"
   m_TagString: Untagged
@@ -1037,18 +1050,6 @@ RectTransform:
   m_AnchoredPosition: {x: -0.5139, y: -131}
   m_SizeDelta: {x: 250.9673, y: 57.635}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &807334408
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 807334406}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fb47efdb97e25b54f8f61383b8057de0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &807334409
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1093,8 +1094,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 807334408}
-        m_TargetAssemblyTypeName: pasarNivel, Assembly-CSharp
+      - m_Target: {fileID: 807334412}
+        m_TargetAssemblyTypeName: pasarNivel2, Assembly-CSharp
         m_MethodName: loadScene
         m_Mode: 5
         m_Arguments:
@@ -1143,6 +1144,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 807334406}
   m_CullTransparentMesh: 1
+--- !u!114 &807334412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 807334406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e35e6e74521eeb64c85e13f396ad0a3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &903591618
 GameObject:
   m_ObjectHideFlags: 0
@@ -1440,7 +1453,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: PruebaGrave
+          m_StringArgument: "VideoNi\xF1a"
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2080120153

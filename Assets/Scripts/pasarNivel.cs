@@ -9,6 +9,6 @@ public class pasarNivel : MonoBehaviour
     // Start is called before the first frame update
     public void loadScene(string sceneName)
     {
-        SceneManager.LoadScene("Docente");
+        SceneManager.LoadScene("VideoNiña");
     }
 }

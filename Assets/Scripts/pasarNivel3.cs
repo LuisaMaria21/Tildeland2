@@ -4,11 +4,11 @@ using UnityEngine;
 using System;
 using UnityEngine.SceneManagement;
 
-public class pasarNivel2 : MonoBehaviour
+public class pasarNivel3 : MonoBehaviour
 {
     // Start is called before the first frame update
     public void loadScene(string sceneName)
     {
-        SceneManager.LoadScene("Docente");
+        SceneManager.LoadScene("PruebaGrave");
     }
 }
