@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class InputText: MonoBehaviour
+public class InputText : MonoBehaviour
 {
     public InputField inputField;
     public Button continueButton;
     public GameObject wrongAnswerImage;
     public GameObject correctAnswerImage;
+    public AudioSource audioSource;
+    public AudioClip incorrectAudioClip; // Asegúrate de asignar un AudioClip en el Inspector
 
     private string correctAnswer = "fí";
 
@@ -35,7 +37,15 @@ public class InputText: MonoBehaviour
             wrongAnswerImage.SetActive(true);
             correctAnswerImage.SetActive(false);
             continueButton.interactable = false; // Deshabilita el botón
+            PlayIncorrectSound();
+        }
+    }
+
+    private void PlayIncorrectSound()
+    {
+        if (audioSource != null && incorrectAudioClip != null)
+        {
+            audioSource.PlayOneShot(incorrectAudioClip);
         }
     }
 }
-

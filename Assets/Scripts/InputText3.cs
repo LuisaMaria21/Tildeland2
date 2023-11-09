@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class InputText3: MonoBehaviour
+public class InputText3 : MonoBehaviour
 {
     public InputField inputField;
     public Button continueButton;
     public GameObject wrongAnswerImage;
     public GameObject correctAnswerImage;
+    public AudioClip incorrectSound; // Agrega el AudioClip para el sonido
+    private AudioSource audioSource; // Agrega el AudioSource para reproducir el sonido
 
     private string correctAnswer = "sá";
 
@@ -16,6 +18,13 @@ public class InputText3: MonoBehaviour
     {
         // Agrega un listener al campo de entrada para activar la validación
         inputField.onValueChanged.AddListener(ValidateInput);
+
+        // Obtén o agrega un AudioSource al objeto actual
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
     }
 
     public void ValidateInput(string userInput)
@@ -35,6 +44,15 @@ public class InputText3: MonoBehaviour
             wrongAnswerImage.SetActive(true);
             correctAnswerImage.SetActive(false);
             continueButton.interactable = false; // Deshabilita el botón
+            PlayIncorrectSound(); // Reproduce el sonido de incorrecto
+        }
+    }
+
+    private void PlayIncorrectSound()
+    {
+        if (incorrectSound != null && audioSource != null)
+        {
+            audioSource.PlayOneShot(incorrectSound);
         }
     }
 }

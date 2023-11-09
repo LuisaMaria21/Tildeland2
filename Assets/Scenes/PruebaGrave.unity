@@ -4129,6 +4129,8 @@ MonoBehaviour:
   continueButton: {fileID: 1964654043}
   wrongAnswerImage: {fileID: 1422036146}
   correctAnswerImage: {fileID: 297534264}
+  audioSource: {fileID: 0}
+  incorrectAudioClip: {fileID: 0}
 --- !u!1 &199683823
 GameObject:
   m_ObjectHideFlags: 0
@@ -76428,6 +76430,7 @@ MonoBehaviour:
   continueButton: {fileID: 1931330242}
   wrongAnswerImage: {fileID: 475816234}
   correctAnswerImage: {fileID: 962088039}
+  incorrectSound: {fileID: 0}
 --- !u!1 &1958010532
 GameObject:
   m_ObjectHideFlags: 0
@@ -76481,6 +76484,7 @@ MonoBehaviour:
   continueButton: {fileID: 921706387}
   wrongAnswerImage: {fileID: 468071051}
   correctAnswerImage: {fileID: 1545824813}
+  incorrectSound: {fileID: 0}
 --- !u!1 &1962886175
 GameObject:
   m_ObjectHideFlags: 0
